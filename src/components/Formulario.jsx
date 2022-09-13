@@ -27,7 +27,6 @@ const Formulario = ({pacientes, setPacientes, paciente, setPaciente}) => {
         const fecha = Date.now().toString(36);
 
         return(random + fecha);
-
     }
     
 
